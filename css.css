@@ -1,0 +1,226 @@
+*{
+	padding:0px;
+	margin:0px;
+	overflow:auto;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#box1{
+	background-color:rgb(244,244,244);
+	border-bottom:1px solid rgb(236,236,236);
+}
+.box1{
+	width:1200px;
+	height:32px;
+	margin:0 auto;
+	line-height:32px;
+}
+.box11{
+	float:left;
+}
+.box12{
+	float:right;
+	font-size:12px;
+	color:black;
+}
+.box12 span{
+	margin-right:5px;
+}
+.box1 span{
+    font-size:12px;
+    padding-right:10px;
+    color:black;
+    text-decoration:none;
+}
+.box1 span a{
+	text-decoration:none;
+}
+.join{
+    position:relative;
+}
+.clear{
+	clear:both;
+}
+body{
+	background-color:rgb( 251, 251,251);
+}
+
+.box2{
+	width:1200px;
+	margin:15px auto 0;
+	height:100px;
+}
+.box21{
+	float:left;
+	height:85px;
+	vertical-align:middle;
+}
+.box22{
+	float:left;
+	margin:22px 0 0 196px;
+}
+.box22 form input:nth-child(1){
+	width:385px;
+	height:36px;
+	padding-left:18px;
+	padding-top:1px;
+	font-size:13px;
+	border:2px solid #f83838;
+	outline:none;
+}
+.box22 form input:nth-child(2){
+	width:92px;
+	height:38px;
+	border:1px solid #f83838;
+		background-color:#f83838;
+	color:#fff;
+	font-size:18px;
+	margin-left:-8px;
+	outline:none;
+	font-weight:600;
+}
+.f_r{
+	float:right;
+	white-space:nowrap;
+}
+.box23{
+
+	margin-top:23px;
+	float:right;
+	text-align:center;
+	margin-right:10px;
+	border:1px solid #e3e3e3;
+	width:150px;
+	height:40px;
+	background:url('pic/gouwuche.jpg') no-repeat 10px center #f5f5f5;
+}
+.box23 a{
+    margin-top:9px;
+    display:block;
+    font-size:14px;
+    color:#333;
+    text-decoration:none;
+}
+.box23 a span{
+	color:#5a5a5a;
+	font-size:14px;
+	color:rgb(241,78,78);
+}
+.list_1{
+	height:36px;
+	padding-left:300px;
+    border-bottom:3px solid red;
+    color:black;
+    font-color:black;
+    list-style:none;
+}
+.list_1 li{
+	width:89px;
+	height:33px;
+	padding:0px 54px;
+	font-size:16px;
+	float:left;
+}
+.list_1 li a{
+	text-decoration:none;
+}
+.visited{
+	background-color:rgb(253,3,4);
+    color:rgb(255,221,221);
+    border-radius:8px;
+}
+.box3{
+	width:1200px;
+	margin:0 auto;
+	line-height:32px;
+}
+.box3 div p{
+	line-height:32px;
+}
+.box31{
+	width:215px;
+	height:42px;
+	background:url('作业图片/fenlei3.png') no-repeat 20px rgb(255,255,255);
+    text-align:center;
+}
+.show{
+	color:rgb(253,3,4);
+}
+.box32{
+	margin-top:10px;
+	width:138px;
+	height:477px;
+	background-color:rgb(255,255,255);
+    padding-top:18px;
+    padding-bottom:10px;
+    padding-left:76px;
+}
+.box32 ul li{
+	
+	list-style:none;
+}
+.box33{
+	margin-left:0px auto;
+   width:973px;
+   height:586px;
+   background-color:rgb(255,255,255);
+}
+.box33 ul li{
+    float:left;
+    list-style:none;
+    padding-top:20px;
+    padding-left:17px;
+}
+.box4{
+	width:auto;
+	height:247px;
+	padding-left:18%;
+	background-color: rgb(46,46,46);
+}
+.box41{
+	position:absolute;
+	width:1200px;
+	height:247px;
+	background-color:rgb(46,46,46);
+}
+.list_2{
+	height:133px;
+	padding-bottom:8px;
+	border-bottom:1px solid rgb(69,69,69);
+}
+.list_2 ul li{
+	list-style:none;
+    color:rgb(245,245,245);
+    font-size:16px;
+    padding-top:8px;
+}
+.list_2 ul li a{
+	text-decoration:none;
+	color:rgb(245,245,245);
+	font-size:14px;
+}
+.list_2 ul{
+	width:240px;
+	float:left;
+}
+
+.list_3{
+	text-align:center;
+	font-size:14px;
+}
+
+.list_3 p a{
+    color:rgb(245,245,245);
+    text-decoration:none;
+}
+.list_3 p{
+	padding-top:8px;
+}
+.list_3 span{
+	color:rgb(245,245,245);
+}
